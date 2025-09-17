@@ -1,4 +1,4 @@
-# SDD-CL-
+# SDD-CL
 
 Shape-Guided Dynamic Pseudo-Labeling with Discrepancy-Aware Consistency Learning for Semi-Supervised 3D TOF-MRA Cerebrovascular Segmentation.
 
